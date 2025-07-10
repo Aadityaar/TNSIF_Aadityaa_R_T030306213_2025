@@ -1,5 +1,5 @@
 //Program to demonstrate accessing classes and methods
-package access_modifiersdemo.firstpackage;
+package Getter_Setter.firstpackage;
 
 
 public class Executor {

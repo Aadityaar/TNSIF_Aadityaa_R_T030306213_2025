@@ -1,5 +1,5 @@
 ////Program to demonstrate private data members, Constructors and getter and setter methods 
-package access_modifiersdemo.firstpackage;
+package Getter_Setter.firstpackage;
 
 public class Person {
 	private String personName;

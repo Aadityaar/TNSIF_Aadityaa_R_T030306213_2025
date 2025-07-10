@@ -1,5 +1,5 @@
 //Program to demonstrate singleton class
-package access_modifiersdemo.thirdpackage;
+package ClassCreation.thirdpackage;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();

@@ -1,4 +1,4 @@
-package exception.handling.demo;
+package exception.handling.Direct;
 
 public class ThrowsDemo {
 	

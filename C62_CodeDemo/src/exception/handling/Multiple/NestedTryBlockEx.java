@@ -1,5 +1,5 @@
 //Program to demonstrate nested Try Catch Block
-package exception.handling.nested.demo;
+package exception.handling.Multiple;
 
 public class NestedTryBlockEx {
 	public static int divide(int x, int y) {

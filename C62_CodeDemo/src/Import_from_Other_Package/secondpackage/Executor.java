@@ -1,7 +1,7 @@
 //Program to demonstrate accessing classes and methods of different package
-package access_modifiersdemo.secondpackage;
+package Import_from_Other_Package.secondpackage;
 
-import access_modifiersdemo.firstpackage.Base;
+import Getter_Setter.firstpackage.Base;
 
 public class Executor {
 	public static void main(String[] args) {

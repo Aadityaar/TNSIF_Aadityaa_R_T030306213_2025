@@ -3,7 +3,7 @@ package non_access_modifiers.usingfinal;
 
 final class FinalClass {
 	void show() {
-		System.out.println("Final class cannot be inherited");
+		System.out.println("Final class will not be inherited");
 	}
 }
 

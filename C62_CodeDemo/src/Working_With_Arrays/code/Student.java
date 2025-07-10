@@ -1,5 +1,5 @@
 //Student entity
-package arrays.demo.code;
+package Working_With_Arrays.code;
 
 public class Student {
 	private int rollNo;

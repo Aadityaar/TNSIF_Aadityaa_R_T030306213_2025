@@ -1,5 +1,5 @@
 //Program to demonstrate static method
-package non.access_modifiers.staticblok.demo;
+package non.access_modifiers.staticblok.Company_details;
 
 public class MyClassDemo {
 

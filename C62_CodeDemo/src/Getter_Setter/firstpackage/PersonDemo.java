@@ -1,5 +1,5 @@
 //Program to demonstrate creating objects
-package access_modifiersdemo.firstpackage;
+package Getter_Setter.firstpackage;
 
 import java.util.Scanner;
 

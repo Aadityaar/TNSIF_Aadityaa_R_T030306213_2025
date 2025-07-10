@@ -1,5 +1,5 @@
 //Program to demonstrate Package and access modifiers
-package access_modifiersdemo.firstpackage;
+package Getter_Setter.firstpackage;
 
 public class Base {
 	/*

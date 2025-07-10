@@ -1,5 +1,5 @@
 //Program to define class with Multidimensional array
-package arrays.demo.code;
+package Working_With_Arrays.code;
 
 public class MLArray
 {

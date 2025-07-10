@@ -1,5 +1,5 @@
 //Program to demonstrate static block
-package non.access_modifiers.staticblok.demo;
+package non.access_modifiers.staticblok.Company_details;
 public class MyClass {
 	private int section ; //non-static or instance variable
 	private static int srNo; //static or class variable

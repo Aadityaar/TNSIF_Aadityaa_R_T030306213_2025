@@ -1,5 +1,5 @@
 //Program to Demonstrate Arrays Class Methods
-package arrays.demo.code;
+package Working_With_Arrays.code;
 
 import java.util.Arrays;
 
